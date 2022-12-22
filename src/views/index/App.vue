@@ -1,7 +1,7 @@
 <template>
   <img alt="Vue logo" src="../../assets/logo.png" />
   <div>示例页面一</div>
-  <a href="/page2.html">示例页面二</a>
+  <a href="/index2.html">示例页面二</a>
   <a href="/pageRouter.html">路由示例</a>
 </template>
 

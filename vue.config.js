@@ -68,13 +68,5 @@ module.exports = defineConfig({
       }
     });
   },
-
-  pluginOptions: {
-    "style-resources-loader": {
-      preProcessor: "less",
-      patterns: [path.resolve(__dirname, "src/theme/style.less")], // 引入全局样式变量
-    },
-  },
-
   pages: CaratePages(),
 });
